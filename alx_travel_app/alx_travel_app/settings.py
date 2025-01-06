@@ -20,7 +20,7 @@ env = environ.Env(
 )
 
 
-environ.Env.read_env(env_file=r'C:\Users\aboab\OneDrive\Desktop\Prodev\alx_travel_app\alx_travel_app\.env')
+environ.Env.read_env(env_file=r'C:\Users\aboab\OneDrive\Desktop\Prodev\alx_travel_app\alx_travel_app\alx_travel_app\.env')
 
 
 # print("Loaded SECRET_KEY:", env('SECRET_KEY', default='No SECRET_KEY found'))
