@@ -1,0 +1,45 @@
+# Virtual environment
+env/
+venv/
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django-related files
+db.sqlite3
+*.log
+media/
+staticfiles/
+
+# Secret files
+.env
+*.json
+
+# IDE and editor files
+.vscode/
+*.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python packages
+*.egg-info/
+*.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Celery files
+celerybeat-schedule
+celerybeat.pid
+
+# Git-related
+*.swp
+*.bak
+*.orig
+*.rej
+.venv/
