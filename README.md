@@ -1,4 +1,4 @@
-0\. Django Project Setup with API Documentation and Database Configuration
+# 0\. Django Project Setup with API Documentation and Database Configuration
 
 **Objective**
 
